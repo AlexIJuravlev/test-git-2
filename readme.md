@@ -8,3 +8,5 @@ master
 develop
 feature/main-page
 feature/about-company
+
+6. git merge
